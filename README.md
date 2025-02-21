@@ -86,10 +86,8 @@ Feel free to **fork**, **open issues**, or **create pull requests** to improve t
 
 ## 🔗 **Connect with Me**
 - 🌎 GitHub: [rashidareeba](https://github.com/rashidareeba)
-- ✉️ Email: [Your Email Here]
+- ✉️ Email: [rashidareeba97@gmail.com]
 ```
-
----
 
 ### **Steps to Upload README to GitHub**
 After creating `README.md`, run:
